@@ -1,4 +1,4 @@
-# osteoarthritis
+# Osteoarthritis
 AI-DRIVEN DIAGNOSIS AND PREDICTION OF OSTEOARTHRITIS
 
 

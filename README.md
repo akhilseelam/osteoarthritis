@@ -17,3 +17,6 @@ Model Architecture: Xception
 Data Augmentation: ImageDataGenerator
 GUI Development: Tkinter (or the GUI framework you used)
 Report Generation: ReportLab (for PDF export)
+
+# Dataset link
+https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity
